@@ -1,0 +1,30 @@
+.wrapper {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	padding: 20px 0;
+}
+
+.list {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+.category {
+	color: #7f7f7f;
+	font-size: 18px;
+	margin-bottom: 6px;
+}
+
+.listItem {
+	margin: 3px 0;
+	a {
+		color: white;
+		text-decoration: none;
+		&:hover {
+			color: #b4b4b4;
+		}
+		transition: color 0.3s;
+	}
+}

@@ -1,0 +1,47 @@
+@import '../../../colors';
+
+.main {
+	background: $background-light;
+}
+
+.tabList {
+	background: $background-dark;
+	display: flex;
+	flex-direction: row;
+}
+
+.tab {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	background: #14151F;
+	color: white;
+	width: 75px;
+	height: 75px;
+	&:hover {
+		background: $background-light;
+		cursor: pointer;
+	}
+	.icon {
+		margin: 10px auto 5px auto;
+	}
+	.city {
+		font-size: 13px;
+	}
+}
+
+.tabActive {
+	@extend .tab;
+	background: $background-light;
+}
+
+.content {
+	min-height: 100px;
+	color: white;
+	display: block;
+}
+
+.contentHidden {
+	@extend .content;
+	display: none;
+}

@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+A little personal homepage with some basic content like URL's to my most visited websites, news feeds, and the weather. Also has a button that plays some calming music.
+
+
+___
 ## Available Scripts
 
 In the project directory, you can run:

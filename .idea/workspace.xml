@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255a6a30-cdef-4e58-a9de-85c7a5511908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/LinkList/LinkList.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/LinkList/LinkList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/Music/HiddenPlayer/HiddenPlayer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/Music/PlayButton/PlayButton.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/Music/PlayButton/PlayButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/TabsBox/TabsBox.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/TabsBox/TabsBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/Weather/WeatherInfo.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-display/Weather/WeatherInfo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-entry/searchbox/SearchBox.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data-entry/searchbox/SearchBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.local.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\myhomepage\public" />
       <recent name="C:\projects\myhomepage\src\components\data-display\Music\PlayButton" />
       <recent name="C:\projects\myhomepage\src\components\data-display\Music\HiddenPlayer" />
     </key>
@@ -114,22 +93,38 @@
       <option name="presentableId" value="Default" />
       <updated>1577967007654</updated>
       <workItem from="1577967009820" duration="26431000" />
-      <workItem from="1578057684302" duration="567000" />
+      <workItem from="1578057684302" duration="1125000" />
     </task>
+    <task id="LOCAL-00001" summary="Master commit, changing readme and favicon">
+      <created>1578058518957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578058518957</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Master commit, changing readme and favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Master commit, changing readme and favicon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="199" key="#SCSS" timestamp="1577972259856">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="#SCSS/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1577972259856" />
-    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577994570772">
+    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578058572022">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1577994570772" />
+    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1578058572022" />
+    <state x="419" y="95" width="1154" height="877" key="CommitChangelistDialog2" timestamp="1578058518161">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="419" y="95" width="1154" height="877" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1578058518161" />
     <state x="448" y="370" width="918" height="340" key="Github.ShareDialog" timestamp="1578058244963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -154,6 +149,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="183" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1577967199107" />
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1578058531168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080/1920.30.1920.1050@0.0.1920.1080" timestamp="1578058531168" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577990718339">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
